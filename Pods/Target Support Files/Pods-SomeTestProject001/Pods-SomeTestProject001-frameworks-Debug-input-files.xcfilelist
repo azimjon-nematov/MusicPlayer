@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SomeTestProject001/Pods-SomeTestProject001-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Fuzi/Fuzi.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
